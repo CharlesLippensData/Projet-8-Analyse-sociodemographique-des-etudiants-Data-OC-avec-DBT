@@ -184,3 +184,12 @@ data/
 dbt_project.yml
 README.md
 ```
+
+## Résultat
+
+Projet **validé** (évaluateur Riana Mamy, 4 avril 2026). Trois compétences validées : agréger des extractions de données en définissant les règles de nettoyage (pipeline dbt fonctionnel, conforme aux bonnes pratiques, avec les indicateurs demandés) ; collecter des données pertinentes dans le respect des normes (principes du RGPD respectés, aucune donnée personnelle, fichiers extraits reproductibles sans traitement préalable) ; vérifier la cohérence et la fiabilité des données préparées (indicateurs calculés de manière cohérente à partir du pipeline, tests dbt en renfort, support de présentation synthétique). Points forts : livrables complets et détaillés sur la partie pipeline dbt, plusieurs analyses saillantes sur les étudiants du parcours data. Aucun axe d'amélioration relevé.
+
+---
+
+Projet réalisé dans le cadre du parcours certifiant **Data Analyst** d'OpenClassrooms.
+Voir l'ensemble de mes projets sur [mon profil GitHub](https://github.com/CharlesLippensData).
