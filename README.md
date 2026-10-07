@@ -1,4 +1,4 @@
-# Projet P8 — Analyse sociodémographique des étudiants Data OC
+# Projet P8 : Analyse sociodémographique des étudiants Data OC
 
 Analyse de l'évolution du profil sociodémographique des étudiants des parcours Data d'OpenClassrooms (2022-2025), comparé à la population française (INSEE).
 
@@ -8,11 +8,11 @@ Produire des indicateurs exploitables pour la direction pédagogique sur 3 dimen
 
 ## Stack technique
 
-- **Snowflake** — entrepôt de données (base OC_P8)
-- **dbt Cloud** — transformations SQL, tests, documentation
-- **GitHub** — versioning du code
-- **Python (openpyxl)** — prétraitement du fichier Excel INSEE avant chargement
-- **INSEE** — données externes de population (open data)
+- **Snowflake** : entrepôt de données (base OC_P8)
+- **dbt Cloud** : transformations SQL, tests, documentation
+- **GitHub** : versioning du code
+- **Python (openpyxl)** : prétraitement du fichier Excel INSEE avant chargement
+- **INSEE** : données externes de population (open data)
 
 ## Données sources
 
